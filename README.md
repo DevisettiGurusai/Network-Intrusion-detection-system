@@ -1,8 +1,7 @@
-# Network-Intrusion-detection-system
+# Network-Intrusion-detection-system-NIDS-
 This directory includes a few sample datasets to get you started.
 
-california_housing_data*.csv is California housing data from the 1990 US Census; more information is available at:
-https://developers.google.com/machine-learning/crash-course/california-housing-data-description
+california_housing_data*.csv is California housing data from the 1990 US Census; more information is available at: https://developers.google.com/machine-learning/crash-course/california-housing-data-description
 
 mnist_*.csv is a small sample of the MNIST database, which is described at: http://yann.lecun.com/exdb/mnist/
 
